@@ -1,0 +1,43 @@
+.wrapper {
+	width: 600px;
+	height: 300px;
+	margin: 0 auto 50px;
+}
+.hstripe{
+	height: 100px;
+
+}
+
+.vstripe {
+	height: 300px;
+	width: 200px;
+	float: left;
+}
+
+.black {
+	background-color: black;
+}
+.yellow {
+	background-color: yellow;
+}
+.red {
+	background-color: red;
+}
+.blue {
+	background-color: blue;
+}
+.green {
+	background-color: green;
+}
+.white {
+	background-color: white;
+}
+.pink {
+	background-color: pink;
+}
+.grey {
+	background-color: grey;
+}
+body {
+	background-color:  #0cff00;
+}
