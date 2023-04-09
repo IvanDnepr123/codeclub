@@ -6,3 +6,4 @@ List of my programs:
 5) Slovo.py - this program speakes with you.
 6) Math teacher.py - Do you want to count so fast? You have bad grades in your school? You should test this!
 7) site_presentation - my HTML site about guitar.
+8) Kvadratne rivniannia_ruby.rb - In this program you write a, b, and c. Then program is solve this quadratic equation.
