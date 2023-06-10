@@ -7,3 +7,5 @@ List of my programs:
 6) Math teacher.py - Do you want to count so fast? You have bad grades in your school? You should test this!
 7) site_presentation - my HTML site about guitar.
 8) Kvadratne rivniannia_ruby.rb - In this program you write a, b, and c. Then program is solve this quadratic equation.
+9) Futball_championship.py - is a program about Ukrainian Premier League. You can choose your favourite football team,
+then commands play matches and you have a table of Ukrainian Premier League.
