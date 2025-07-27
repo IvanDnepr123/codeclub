@@ -9,4 +9,4 @@ List of my programs:
 8) Kvadratne rivniannia_ruby.rb - In this program you write a, b, and c. Then program is solve this quadratic equation.
 9) Futball_championship.py - is a program about Ukrainian Premier League. You can choose your favourite football team,
 then commands play matches and you have a table of Ukrainian Premier League.
-10) resume-projects - This is a folder with the site, a folder with images and a folder with css styles. I wrote this during the IT marathon from Go IT. I also add a link to the hosting of this site: https://classy-mermaid-5fe834.netlify.app/
+10) resume-projects - This is a folder with the site, a folder with images and a folder with css styles. I wrote this during the IT marathon from Go IT. I also add a link to the hosting of this site: https://classy-mermaid-5fe834.netlify.app/         /*This isn't my real resume*/
