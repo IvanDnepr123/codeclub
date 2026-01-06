@@ -10,3 +10,4 @@ List of my programs:
 9) Futball_championship.py - is a program about Ukrainian Premier League. You can choose your favourite football team,
 then commands play matches and you have a table of Ukrainian Premier League.
 10) resume-projects - This is a folder with the site, a folder with images and a folder with css styles. I wrote this during the IT marathon from Go IT. I also add a link to the hosting of this site: https://classy-mermaid-5fe834.netlify.app/ ------- *This isn't my real resume*
+11) Slovo_english.py - This is english and updated version of "Slovo" program.
