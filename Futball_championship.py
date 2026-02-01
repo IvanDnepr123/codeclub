@@ -1,7 +1,7 @@
 import random
 
-commands = ["Shahtar", "Dynamo Kyev", "Dnipro-1", "Zorya", "Aleksandria", "Kryvbass", "Kolos K", "Vorskla", "Ingulets",
-            "Mettalist 1925", "Chernomorets", "Veres", "Minay", "Ruch", "Metallits Kharkiv", "Lvov"]
+commands = ["Shahtar", "Dynamo Kyiv", "Dnipro-1", "Zorya", "Oleksandria", "Kryvbass", "Kolos K", "Vorskla", "Ingulets",
+            "Mettalist 1925", "Chernomorets", "Veres", "Minay", "Ruch", "Metallist Kharkiv", "Lviv", "Kudrivka", "Epicentr", "Bukovyna", "LNZ", "Polissyia", "SK Poltava", "Livyi Bereg"]
 
 favorite_team = input("Введіть назву своєї улюбленої команди: ")
 
