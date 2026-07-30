@@ -10,10 +10,10 @@ print("Good day! Welcome to our program: SmartInteligence")
 print("Version 2.3.1")
 tvoje_slovo = input("Write something here:")
 while True:
-    i = random.randint(0, len(a))
-    b = random.randint(0, len(vz))
+    reply_a = random.choice(a)
+    reply_vz = random.choice(vz)
     if "?" in tvoje_slovo:
-        print(vz[b])
+        print(reply_vz)
         a.append(tvoje_slovo)
     elif "YOUR AGE" in tvoje_slovo.upper() or "OLD ARE YOU" in tvoje_slovo.upper() or "HOW OLD ARE YOU" in tvoje_slovo.upper():
         print("I'm ", year, " years old.")
@@ -54,12 +54,9 @@ while True:
 
 
     else:
-        i = random.randint(0, len(a))
         if tvoje_slovo not in a:
             a.append(tvoje_slovo)
-            print(a[i])
-        else:
-            print(a[i])
+        print(reply_a)
 
     tvoje_slovo = input(": ")
     year += 1
